@@ -24,7 +24,7 @@ to know how many objects they are producing, for example a beverage company
 where they need to know how many bottles are being produced. For this we use an
 ultrasonic sensor (HC-SR04) and we delimit a distance of 10 cm. 
 
-![App Screenshot](https://github.com/Edson0121/ProyectoPlataformas/blob/main/arduino.png)
+![App Screenshot](https://github.com/Edson0121/ProyectoPlataformas/blob/main/conexion_arduino.png)
 
 The file `sensorArduino.c` is the one that needs to be uploaded to the Arduino. This
 code will show the count in the Serial Monitor of the Arduino IDE. To export this
